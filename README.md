@@ -8,8 +8,8 @@ Including some dotfiles which I always use.
 
 ##bash
 
-Mac  版:[bash_profile](https://github.com/Voidly/dotfiles/blob/master/bash/.bash_profile)
-Linux版:[bashrc](https://github.com/Voidly/dotfiles/blob/master/bash/.bashrc) 
+* Mac  版:[bash_profile](https://github.com/Voidly/dotfiles/blob/master/bash/.bash_profile)
+* Linux版:[bashrc](https://github.com/Voidly/dotfiles/blob/master/bash/.bashrc) 
 
 ##zsh
 

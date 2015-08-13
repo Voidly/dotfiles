@@ -12,3 +12,4 @@ Including some dotfiles which I always use.
 
 ##screen
 
+##mpv

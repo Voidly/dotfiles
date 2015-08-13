@@ -1,6 +1,6 @@
 # voidy's dotfiles
 
-It includes some dotfiles that I always use.
+Including some dotfiles which I always use.
 
 ##vim
 

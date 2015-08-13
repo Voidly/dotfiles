@@ -2,13 +2,13 @@
 
 It includes some dotfiles that I always use.
 
-##/vim
+##vim
 
-##/bash
+##bash
 
-##/zsh
+##zsh
 
-##/tmux
+##tmux
 
-##/screen
+##screen
 

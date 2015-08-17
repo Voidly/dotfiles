@@ -1,0 +1,13 @@
+[user]
+	name = Voidly
+	email = voidlly@gmail.com
+[color]
+    branch = auto
+    status = auto
+    ui = auto
+    diff = auto
+    grep = auto
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
